@@ -1,0 +1,9 @@
+/* ul li:last-child{
+    border: 2px solid red;
+} */
+
+/* o asi*/
+
+ul li:last-of-type{
+    border: 2px solid red;
+}

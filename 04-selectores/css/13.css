@@ -1,0 +1,13 @@
+/* ul li:nth-child(2n + 1){ */
+ul li:nth-child(odd){
+    border: 2px solid red;
+}
+
+/** 
+Se puede hacer de 2 maneras:
+    2n +1 
+
+    odd -> Impar
+    even -> Par
+
+*/

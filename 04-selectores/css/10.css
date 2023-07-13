@@ -1,0 +1,19 @@
+/* a[href="http://www.google.com"] {
+    color: red;
+} */
+
+
+/* LOs que inicien */
+/* a[href^="http"] { 
+    color: red;
+} */
+
+
+/* LOs que terminen */
+a[href$=".com"] { 
+    color: red;
+}
+
+input[type="tel"] {
+    border: 5px solid red;
+}
